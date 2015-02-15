@@ -1,0 +1,23 @@
+{
+  "name": "alvarpid",
+  "version": "1.0.0",
+  "description": "Alvarpið web scraper!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koddsson/alvarpid.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koddsson/alvarpid/issues"
+  },
+  "homepage": "https://github.com/koddsson/alvarpid",
+  "dependencies": {
+    "lodash": "^3.2.0",
+    "x-ray": "^1.0.3"
+  }
+}
